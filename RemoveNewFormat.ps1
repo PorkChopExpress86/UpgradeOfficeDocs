@@ -1,0 +1,1 @@
+Get-ChildItem -Path . -Include *.docx, *.xlsx -Recurse | Remove-Item
